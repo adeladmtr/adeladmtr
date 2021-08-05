@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adeladmtr
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning JS Applications
+- 👀 I’m interested in back-end development
+- 🌱 I’m currently learning Angular
 
 <!---
 adeladmtr/adeladmtr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
